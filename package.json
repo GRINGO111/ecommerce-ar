@@ -1,0 +1,31 @@
+{
+  "name": "ecommerce-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-connect": "^5.0.0",
+    "gulp-css-flipper": "^1.0.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "merge-stream": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forabi/ecommerce-demo.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Fawwaz Orabi <mfawwaz93@gmail.com> (http://forabi.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forabi/ecommerce-demo/issues"
+  },
+  "homepage": "https://github.com/forabi/ecommerce-demo#readme"
+}
